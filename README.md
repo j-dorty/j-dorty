@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jack Doherty
-- 👀 I’m interested in all things programming and development both front and backend
-- 🌱 I’m currently learning react and scala!
 - 📫 How to reach me - youcangetjack@gmail.com
 
 <!---
